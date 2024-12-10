@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "116608033536",
+    "firebase_url": "https://autosms-7bc30-default-rtdb.firebaseio.com",
+    "project_id": "autosms-7bc30",
+    "storage_bucket": "autosms-7bc30.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116608033536:android:2555596d033da0977dc9e5",
+        "android_client_info": {
+          "package_name": "com.example.auto_sms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8mpEhmsRFbTbrpofP2fdlbRmTfMrZe3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116608033536:android:8b6ba95a8a6181137dc9e5",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8mpEhmsRFbTbrpofP2fdlbRmTfMrZe3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
